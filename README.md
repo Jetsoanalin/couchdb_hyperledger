@@ -1,4 +1,4 @@
-# hlf1.4-couchdb
+# couchdb
 A example of a Hyperledger Fabric network with two organizations and couchdb database
 
 # Installation instructions
@@ -13,10 +13,10 @@ https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html
 `cd fabric-samples`
 
 4. Download the template:
-`git clone https://github.com/ialberquilla/hlf1.4-couchdb`
+`git clone https://github.com/Jetsoanalin/couchdb_hyperledger`
 
 6. Install chaincode nodejs dependencies
-`cd hlf1.4-couchdb/chaincode && npm install`
+`cd couchdb_hyperledger/chaincode && npm install`
 
 5. Go to the template
 `cd ..`
